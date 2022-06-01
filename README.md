@@ -2,7 +2,7 @@
 
 You need to install 
 - Python 3.8
-- pip3
+- pip / pip3
 
 Create your venv
 
